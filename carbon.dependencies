@@ -33,5 +33,5 @@
   "repository": "TheMuppets/proprietary_vendor_lge",
   "target_path": "vendor/lge/vs980",
   "revision": "cm-10.2"
- },
+ }
 ]
