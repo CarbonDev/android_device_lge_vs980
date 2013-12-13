@@ -2,7 +2,8 @@
  {
    "remote": "cr",
    "repository": "CarbonDev/android_device_lge_vs980",
-   "target_path": "device_lge_vs980"
+   "target_path": "device_lge_vs980",
+   "revision": "jb3"
  },
  {
    "remote": "cm",
