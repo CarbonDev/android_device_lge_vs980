@@ -32,7 +32,7 @@
  {
   "remote": "gh",
   "repository": "TheMuppets/proprietary_vendor_lge",
-  "target_path": "vendor/lge/vs980",
+  "target_path": "vendor/lge",
   "revision": "cm-10.2"
  }
 ]
