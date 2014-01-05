@@ -1,11 +1,5 @@
 [
  {
-   "remote": "cr",
-   "repository": "CarbonDev/android_device_lge_vs980",
-   "target_path": "device_lge_vs980",
-   "revision": "kk"
- },
- {
    "remote": "cm",
    "repository": "CyanogenMod/android_device_lge_g2-common",
    "target_path": "device/lge/g2-common",
