@@ -6,12 +6,12 @@
    "revision": "cm-11.0"
  },
  {
-   "repository": "CarbonDev/android_device_lge_g2-common",
+   "repository": "CarbonDev/device_lge_g2-common",
    "target_path": "device/lge/g2-common",
    "revision": "kk"
  },
  {
-   "repository": "CarbonDev/android_kernel_lge_msm8974",
+   "repository": "CarbonDev/kernel_lge_msm8974",
    "target_path": "kernel/lge/msm8974",
    "revision": "kk"
  },
