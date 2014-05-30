@@ -21,8 +21,8 @@
    "revision": "kk"
  },
  {
-  "repository": "CarbonDev/proprietary_vendor_lge",
-  "target_path": "vendor/lge",
+  "repository": "CarbonDev/vendor_lge_g2",
+  "target_path": "vendor/lge/g2",
   "revision": "kk"
  }
 ]
